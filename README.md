@@ -14,4 +14,4 @@
 ```
 pip install gspread
 ```
-자세한 사용법은 * [이 파일](https://github.com/OnedayOneyeah/gspread_tutorial/blob/main/gspread_tutorial.ipynb<http://example.com/)을 참조:)
+자세한 사용법은 [이 파일](https://github.com/OnedayOneyeah/gspread_tutorial/blob/main/gspread_tutorial.ipynb<http://example.com/)을 참조:)
